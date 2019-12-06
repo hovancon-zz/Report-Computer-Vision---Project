@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.3)  6 DEC 2019 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.3)  6 DEC 2019 19:06
 entering extended mode
 **"d:/HCMUT/5. Latex/2. Report CV/1. Report/main.tex"
 ("d:/HCMUT/5. Latex/2. Report CV/1. Report/main.tex"
@@ -609,7 +609,7 @@ LaTeX Warning: Command \@footnotemark  has changed.
 
 ) ("C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex"
 File: tikzlibrarycalc.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-) ("d:/HCMUT\5. Latex\2. Report CV\1. Report\main.aux" ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau/LoiNoiDau.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On/LoiCamOn.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Mastercard/Mastercard.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Visa/Visa.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress/AmericanExpress.aux"))
+) ("d:/HCMUT\5. Latex\2. Report CV\1. Report\main.aux" ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau/LoiNoiDau.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On/LoiCamOn.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Mastercard/Mastercard.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Visa/Visa.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress/AmericanExpress.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\References/reference.aux"))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
@@ -862,27 +862,36 @@ File: images/americanexpress/result.png Graphic file (type png)
 Package pdftex.def Info: images/americanexpress/result.png  used on input line 389.
 (pdftex.def)             Requested size: 301.12425pt x 190.71202pt.
 ) [32 <d:/HCMUT/5. Latex/2. Report CV/1. Report/images/americanexpress/digits.png> <d:/HCMUT/5. Latex/2. Report CV/1. Report/images/americanexpress/result.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
- ("d:/HCMUT\5. Latex\2. Report CV\1. Report\main.aux" ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau/LoiNoiDau.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On/LoiCamOn.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Mastercard/Mastercard.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Visa/Visa.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress/AmericanExpress.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 56.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
+\openout2 = `References/reference.aux'.
+
+ ("d:/HCMUT\5. Latex\2. Report CV\1. Report\References/reference.tex") [33
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 57.
+ ("d:/HCMUT\5. Latex\2. Report CV\1. Report\main.aux" ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau/LoiNoiDau.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On/LoiCamOn.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Mastercard/Mastercard.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Visa/Visa.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress/AmericanExpress.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\References/reference.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 57.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 57.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F9EB5E0E83534D79DFD26C6C88639F19;3090.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 56.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 57.
  ) 
 Here is how much of TeX's memory you used:
- 23654 strings out of 492484
- 417619 string characters out of 3122054
- 921702 words of memory out of 3000000
- 26721 multiletter control sequences out of 15000+200000
- 19587 words of font info for 34 fonts, out of 3000000 for 9000
+ 23679 strings out of 492484
+ 418350 string characters out of 3122054
+ 922147 words of memory out of 3000000
+ 26731 multiletter control sequences out of 15000+200000
+ 20410 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,12n,56p,548b,2020s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbxsl10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbxti10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on "d:/HCMUT\5. Latex\2. Report CV\1. Report\main.pdf" (33 pages, 1221035 bytes).
+<C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbxsl10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbxti10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vntt12.pfb
+
+pdfTeX warning: pdflatex (file C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vntt12.pfb): glyph `tilde' undefined
+>
+Output written on "d:/HCMUT\5. Latex\2. Report CV\1. Report\main.pdf" (34 pages, 1236791 bytes).
 PDF statistics:
- 1260 PDF objects out of 1440 (max. 8388607)
- 846 named destinations out of 1000 (max. 500000)
+ 1277 PDF objects out of 1440 (max. 8388607)
+ 851 named destinations out of 1000 (max. 500000)
  214 words of extra memory for PDF output out of 10000 (max. 10000000)
 
