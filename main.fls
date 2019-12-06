@@ -51,6 +51,8 @@ INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirs
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
@@ -381,6 +383,8 @@ INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnbx
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnbxsl10.pfb
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnbxti10.pfb
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnbxti10.pfb
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnr10.pfb
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnr10.pfb
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnr12.pfb
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnr12.pfb
 INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vntt12.pfb

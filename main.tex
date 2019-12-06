@@ -3,8 +3,9 @@
 \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry} 
 \setlength{\parindent}{0pt}
 \usepackage{graphicx}
-\usepackage{indentfirst}
+\usepackage{indentfirst}    
 \usepackage{array}
+\usepackage{fancyhdr}
 \usepackage{listings}
 \usepackage{xcolor}
 \usepackage[unicode]{hyperref}
@@ -35,6 +36,11 @@
 \usepackage{scrextend}
 \changefontsizes{14pt}
 \usetikzlibrary{calc}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Nhóm 7}
+\lhead{Tiểu luận thị giác máy tính}
+\rfoot{Page \thepage}
 \begin{document}
 \input{titlepage}
 \tableofcontents
