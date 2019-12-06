@@ -1,0 +1,387 @@
+PWD d:\HCMUT\5. Latex\2. Report CV\1. Report
+INPUT C:\Users\acer\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.tex
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.log
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\vietnam.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\vietnam.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\t5enc.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\t5enc.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\t5enc.dfu
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\t5enc.dfu
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\t5cmr.fd
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\t5cmr.fd
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnr10.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\vncaps.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\vncaps.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry-de\geometry.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry-de\geometry.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\hycolor.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\hycolor.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\xcolor-patch.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\xcolor-patch.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\hopatch.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\hopatch.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\letltxmacro.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\letltxmacro.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\intcalc.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\intcalc.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\puenc.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\puenc.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\bitset.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\bitset.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\bigintcalc.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\bigintcalc.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\atveryend.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\atveryend.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\uniquecounter.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\uniquecounter.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnr12.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau\LoiNoiDau.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau\LoiNoiDau.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On\LoiCamOn.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On\LoiCamOn.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Mastercard\Mastercard.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Mastercard\Mastercard.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Visa\Visa.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Visa\Visa.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress\AmericanExpress.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress\AmericanExpress.aux
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.aux
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\refcount.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\refcount.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.out
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.out
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.out
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.out
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.pdf
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.out
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.out
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.out
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\titlepage.tex
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\titlepage.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\Logo-BK.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\Logo-BK.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\Logo-BK.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\Logo-BK.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\Logo-BK.png
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnbxsl10.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnti12.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnbxti10.tfm
+INPUT C:\Users\acer\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.toc
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.toc
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.toc
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.lof
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.lof
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.lof
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.lol
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.lol
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.lol
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau\LoiNoiDau.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau\LoiNoiDau.tex
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau\LoiNoiDau.tex
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On\LoiCamOn.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On\LoiCamOn.tex
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On\LoiCamOn.tex
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Mastercard\Mastercard.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Mastercard\Mastercard.tex
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Mastercard\Mastercard.tex
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnr17.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\inputMastercard.jpg
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\inputMastercard.jpg
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\inputMastercard.jpg
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\inputMastercard.jpg
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\inputMastercard.jpg
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\training.png
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\t5cmtt.fd
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vntex\t5cmtt.fd
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vntt12.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vntt12.tfm
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\vntex\vnr\vnr12.tfm
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\Ket_qua_mastercard.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\Ket_qua_mastercard.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\Ket_qua_mastercard.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\Ket_qua_mastercard.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\mastercard\Ket_qua_mastercard.png
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Visa\Visa.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Visa\Visa.tex
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Visa\Visa.tex
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\Visa\inputVisa.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\Visa\inputVisa.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\Visa\inputVisa.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\Visa\inputVisa.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\Visa\inputVisa.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\ket_qua_visa.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\ket_qua_visa.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\ket_qua_visa.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\ket_qua_visa.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\visa\ket_qua_visa.png
+OUTPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress\AmericanExpress.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress\AmericanExpress.tex
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress\AmericanExpress.tex
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\inputAmericanExpress.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\inputAmericanExpress.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\inputAmericanExpress.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\inputAmericanExpress.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\inputAmericanExpress.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\training.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\digits.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\result.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\result.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\result.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\result.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\images\americanexpress\result.png
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau\LoiNoiDau.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau\LoiNoiDau.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On\LoiCamOn.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On\LoiCamOn.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Mastercard\Mastercard.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Mastercard\Mastercard.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Visa\Visa.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\Visa\Visa.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress\AmericanExpress.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress\AmericanExpress.aux
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.out
+INPUT d:\HCMUT\5. Latex\2. Report CV\1. Report\main.out
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnbx12.pfb
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnbx12.pfb
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnbxsl10.pfb
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnbxsl10.pfb
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnbxti10.pfb
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnbxti10.pfb
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnr12.pfb
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vnr12.pfb
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vntt12.pfb
+INPUT C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\vntex\vnr\vntt12.pfb

@@ -1,0 +1,50 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8]{vietnam}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry} 
+\setlength{\parindent}{0pt}
+\usepackage{graphicx}
+\usepackage{indentfirst}
+\usepackage{array}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage[unicode]{hyperref}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+ 
+\lstdefinestyle{mystyle}{  
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                                
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+ 
+\lstset{style=mystyle}
+\usepackage{tikz} 
+\usepackage{scrextend}
+\changefontsizes{14pt}
+\usetikzlibrary{calc}
+\begin{document}
+\input{titlepage}
+\tableofcontents
+\newpage
+\listoffigures
+\newpage
+\lstlistoflistings
+\include{Loi_Noi_Dau/LoiNoiDau}
+\include{Loi_Cam_On/LoiCamOn}
+\include{Mastercard/Mastercard}
+\include{Visa/Visa}
+\include{AmericanExpress/AmericanExpress}
+\end{document}

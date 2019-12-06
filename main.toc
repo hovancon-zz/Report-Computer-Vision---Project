@@ -1,0 +1,17 @@
+\contentsline {section}{Lời Nói Đầu}{4}{section*.4}%
+\contentsline {section}{Lời Cảm Ơn}{5}{section*.5}%
+\contentsline {section}{\numberline {1}Nhận diện chữ số trên thẻ Mastercard}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Đề bài}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Mô hình nhận dạng}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Chương trình nhận dạng}{8}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Đánh giá kết quả và kết luận}{12}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Nhận diện chữ số trên thẻ Visa}{15}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Đề bài}{15}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Mô hình nhận dạng}{15}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Chương trình nhận dạng}{17}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Đánh giá kết quả và kết luận}{22}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Nhận diện chữ số trên thẻ American Express}{25}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Đề bài}{25}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Mô hình nhận dạng}{25}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Chương trình nhận dạng}{26}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Đánh giá kết quả và kết luận}{31}{subsection.3.4}%
