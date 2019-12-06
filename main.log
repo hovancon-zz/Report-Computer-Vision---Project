@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.3)  6 DEC 2019 19:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.3)  6 DEC 2019 19:12
 entering extended mode
 **"d:/HCMUT/5. Latex/2. Report CV/1. Report/main.tex"
 ("d:/HCMUT/5. Latex/2. Report CV/1. Report/main.tex"
@@ -609,7 +609,14 @@ LaTeX Warning: Command \@footnotemark  has changed.
 
 ) ("C:\Users\acer\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex"
 File: tikzlibrarycalc.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-) ("d:/HCMUT\5. Latex\2. Report CV\1. Report\main.aux" ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau/LoiNoiDau.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On/LoiCamOn.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Mastercard/Mastercard.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Visa/Visa.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress/AmericanExpress.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\References/reference.aux"))
+) ("d:/HCMUT\5. Latex\2. Report CV\1. Report\main.aux" ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau/LoiNoiDau.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On/LoiCamOn.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Mastercard/Mastercard.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Visa/Visa.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress/AmericanExpress.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\References/reference.aux"
+
+LaTeX Warning: Label `latexcompanion' multiply defined.
+
+
+LaTeX Warning: Label `knuthwebsite' multiply defined.
+
+))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
@@ -702,7 +709,7 @@ LaTeX Info: Redefining \nameref on input line 44.
 \openout4 = `main.out'.
 
  ABD: EveryShipout initializing macros ("d:/HCMUT\5. Latex\2. Report CV\1. Report\titlepage.tex"
-<images/Logo-BK.png, id=74, 522.5121pt x 475.0548pt>
+<images/Logo-BK.png, id=78, 522.5121pt x 475.0548pt>
 File: images/Logo-BK.png Graphic file (type png)
 <use images/Logo-BK.png>
 Package pdftex.def Info: images/Logo-BK.png  used on input line 25.
@@ -760,12 +767,12 @@ Overfull \hbox (43.84076pt too wide) in paragraph at lines 11--13
 \openout2 = `Mastercard/Mastercard.aux'.
 
  ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Mastercard/Mastercard.tex"
-<images/mastercard/inputMastercard.jpg, id=158, 203.25937pt x 127.97812pt>
+<images/mastercard/inputMastercard.jpg, id=163, 203.25937pt x 127.97812pt>
 File: images/mastercard/inputMastercard.jpg Graphic file (type jpg)
 <use images/mastercard/inputMastercard.jpg>
 Package pdftex.def Info: images/mastercard/inputMastercard.jpg  used on input line 6.
 (pdftex.def)             Requested size: 243.91pt x 153.57297pt.
-<images/mastercard/training.png, id=159, 350.05782pt x 343.2825pt>
+<images/mastercard/training.png, id=164, 350.05782pt x 343.2825pt>
 File: images/mastercard/training.png Graphic file (type png)
 <use images/mastercard/training.png>
 Package pdftex.def Info: images/mastercard/training.png  used on input line 22.
@@ -784,13 +791,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 369--370
 
  []
 
-<images/mastercard/digits.png, id=419, 462.528pt x 346.896pt>
+<images/mastercard/digits.png, id=424, 462.528pt x 346.896pt>
 File: images/mastercard/digits.png Graphic file (type png)
 <use images/mastercard/digits.png>
 Package pdftex.def Info: images/mastercard/digits.png  used on input line 373.
 (pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
 [13 <d:/HCMUT/5. Latex/2. Report CV/1. Report/images/mastercard/digits.png>]
-<images/mastercard/Ket_qua_mastercard.png, id=444, 301.125pt x 188.705pt>
+<images/mastercard/Ket_qua_mastercard.png, id=449, 301.125pt x 188.705pt>
 File: images/mastercard/Ket_qua_mastercard.png Graphic file (type png)
 <use images/mastercard/Ket_qua_mastercard.png>
 Package pdftex.def Info: images/mastercard/Ket_qua_mastercard.png  used on input line 381.
@@ -799,12 +806,12 @@ Package pdftex.def Info: images/mastercard/Ket_qua_mastercard.png  used on input
 \openout2 = `Visa/Visa.aux'.
 
  ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Visa/Visa.tex"
-<images/Visa/inputVisa.png, id=449, 481.8pt x 361.35pt>
+<images/Visa/inputVisa.png, id=454, 481.8pt x 361.35pt>
 File: images/Visa/inputVisa.png Graphic file (type png)
 <use images/Visa/inputVisa.png>
 Package pdftex.def Info: images/Visa/inputVisa.png  used on input line 6.
 (pdftex.def)             Requested size: 337.25769pt x 252.94327pt.
-<images/visa/training.png, id=450, 319.1925pt x 424.58624pt>
+<images/visa/training.png, id=455, 319.1925pt x 424.58624pt>
 File: images/visa/training.png Graphic file (type png)
 <use images/visa/training.png>
 Package pdftex.def Info: images/visa/training.png  used on input line 20.
@@ -817,13 +824,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 395--396
 
  []
 
-<images/visa/digits.png, id=736, 462.528pt x 346.896pt>
+<images/visa/digits.png, id=741, 462.528pt x 346.896pt>
 File: images/visa/digits.png Graphic file (type png)
 <use images/visa/digits.png>
 Package pdftex.def Info: images/visa/digits.png  used on input line 399.
 (pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
 [23]
-<images/visa/ket_qua_visa.png, id=765, 301.125pt x 225.84375pt>
+<images/visa/ket_qua_visa.png, id=770, 301.125pt x 225.84375pt>
 File: images/visa/ket_qua_visa.png Graphic file (type png)
 <use images/visa/ket_qua_visa.png>
 Package pdftex.def Info: images/visa/ket_qua_visa.png  used on input line 407.
@@ -832,12 +839,12 @@ Package pdftex.def Info: images/visa/ket_qua_visa.png  used on input line 407.
 \openout2 = `AmericanExpress/AmericanExpress.aux'.
 
  ("d:/HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress/AmericanExpress.tex"
-<images/americanexpress/inputAmericanExpress.png, id=772, 242.26875pt x 153.57375pt>
+<images/americanexpress/inputAmericanExpress.png, id=777, 242.26875pt x 153.57375pt>
 File: images/americanexpress/inputAmericanExpress.png Graphic file (type png)
 <use images/americanexpress/inputAmericanExpress.png>
 Package pdftex.def Info: images/americanexpress/inputAmericanExpress.png  used on input line 6.
 (pdftex.def)             Requested size: 242.26816pt x 153.57336pt.
-<images/americanexpress/training.png, id=773, 381.22424pt x 448.67625pt>
+<images/americanexpress/training.png, id=778, 381.22424pt x 448.67625pt>
 File: images/americanexpress/training.png Graphic file (type png)
 <use images/americanexpress/training.png>
 Package pdftex.def Info: images/americanexpress/training.png  used on input line 19.
@@ -851,12 +858,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
 
  <d:/HCMUT/5. Latex/2. Report CV/1. Report/images/americanexpress/inputAmericanExpress.png> <d:/HCMUT/5. Latex/2. Report CV/1. Report/images/americanexpress/training.png>] [26] [27] [28] [29] [30] [31]
-<images/americanexpress/digits.png, id=1060, 462.528pt x 346.896pt>
+<images/americanexpress/digits.png, id=1065, 462.528pt x 346.896pt>
 File: images/americanexpress/digits.png Graphic file (type png)
 <use images/americanexpress/digits.png>
 Package pdftex.def Info: images/americanexpress/digits.png  used on input line 380.
 (pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
-<images/americanexpress/result.png, id=1061, 301.125pt x 190.7125pt>
+<images/americanexpress/result.png, id=1066, 301.125pt x 190.7125pt>
 File: images/americanexpress/result.png Graphic file (type png)
 <use images/americanexpress/result.png>
 Package pdftex.def Info: images/americanexpress/result.png  used on input line 389.
@@ -867,31 +874,42 @@ Package pdftex.def Info: images/americanexpress/result.png  used on input line 3
  ("d:/HCMUT\5. Latex\2. Report CV\1. Report\References/reference.tex") [33
 
 
-]
+pdfTeX warning (ext4): destination with the same identifier (name{cite.latexcompanion}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.56 \include{References/reference}
+                                   pdfTeX warning (ext4): destination with the same identifier (name{cite.knuthwebsite}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.56 \include{References/reference}
+                                   ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 57.
  ("d:/HCMUT\5. Latex\2. Report CV\1. Report\main.aux" ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Noi_Dau/LoiNoiDau.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Loi_Cam_On/LoiCamOn.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Mastercard/Mastercard.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\Visa/Visa.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\AmericanExpress/AmericanExpress.aux") ("d:/HCMUT\5. Latex\2. Report CV\1. Report\References/reference.aux"))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 57.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 57.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F9EB5E0E83534D79DFD26C6C88639F19;3090.
+(rerunfilecheck)             Checksum: 8C0821F3F296DB2325F0D71738CF7C0E;3242.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 57.
  ) 
 Here is how much of TeX's memory you used:
- 23679 strings out of 492484
- 418350 string characters out of 3122054
- 922147 words of memory out of 3000000
- 26731 multiletter control sequences out of 15000+200000
- 20410 words of font info for 35 fonts, out of 3000000 for 9000
+ 23676 strings out of 492484
+ 418309 string characters out of 3122054
+ 922156 words of memory out of 3000000
+ 26729 multiletter control sequences out of 15000+200000
+ 19587 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,12n,56p,548b,2020s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbxsl10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbxti10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vntt12.pfb
-
-pdfTeX warning: pdflatex (file C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vntt12.pfb): glyph `tilde' undefined
->
-Output written on "d:/HCMUT\5. Latex\2. Report CV\1. Report\main.pdf" (34 pages, 1236791 bytes).
+<C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbxsl10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnbxti10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vnti12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/vntex/vnr/vntt12.pfb>
+Output written on "d:/HCMUT\5. Latex\2. Report CV\1. Report\main.pdf" (34 pages, 1235866 bytes).
 PDF statistics:
  1277 PDF objects out of 1440 (max. 8388607)
  851 named destinations out of 1000 (max. 500000)
- 214 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 222 words of extra memory for PDF output out of 10000 (max. 10000000)
 

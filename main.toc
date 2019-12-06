@@ -15,3 +15,4 @@
 \contentsline {subsection}{\numberline {3.2}Mô hình nhận dạng}{25}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Chương trình nhận dạng}{26}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Đánh giá kết quả và kết luận}{31}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Tài liệu tham khảo}{33}{section.4}%
