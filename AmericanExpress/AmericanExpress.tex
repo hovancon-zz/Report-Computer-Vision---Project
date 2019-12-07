@@ -8,11 +8,11 @@ Nhận dạng chữ số trên thẻ tín dụng American Express
 
 \subsection{Mô hình nhận dạng}
 
-\quad Vì thẻ American Express có ký tự chữ số khác với chữ số thường nên ta sẽ thực
+\quad Vì thẻ American Express có ký tự chữ số có font đặc biện nên ta sẽ thực
 hiện training với tập dữ liệu riêng.
 
     \quad Ta lên mạng gõ tìm font chữ của thẻ American Express sau đó cài đặt, vào word
-gõ 100 ký tự số từ 0 đến 1 và chụp màng hình. 
+gõ 100 ký tự số từ 0 đến 1 và chụp màn hình. 
 
     \quad Dữ liệu training là ảnh dưới đây.
 \begin{center}
@@ -22,7 +22,7 @@ gõ 100 ký tự số từ 0 đến 1 và chụp màng hình.
     \caption{ảnh training American Express}
 \end{figure}
 
--	Vì lí do ảnh Visa có nền màu trắng khi lấy nhị phân ra ta qua nhiều giai đoạn xử lí nên các số không được nguyên bản, không được đẹp nên ta sẽ thực hiện biến đổi ngẫu nhiên các số từ font chữ góc (in nghiêng, in đậm, bóng mờ, phóng to, thu nhỏ, thêm số từ font khác,…) và chọn kết quả cảm thấy tốt nhất \\[0.3cm]
+-	Vì lí do ảnh American Express có nền màu xanh khi lấy nhị phân ra ta qua nhiều giai đoạn xử lí nên các số không được nguyên bản, không được đẹp nên ta sẽ thực hiện biến đổi ngẫu nhiên các số từ font chữ góc (in nghiêng, in đậm, bóng mờ, phóng to, thu nhỏ, thêm số từ font khác,…) và chọn kết quả cảm thấy tốt nhất \\[0.3cm]
 
 \tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
 \begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
@@ -375,13 +375,13 @@ cv2.destroyAllWindows()
 
 \quad \textbf{KẾT QUẢ NHẬN ĐƯỢC}
 
-- Các chử số trên thẻ sau khi được detect 
+- Các chữ số trên thẻ sau khi được detect 
 \begin{center}
     \includegraphics[scale = 0.8]{images/americanexpress/digits.png}
 \end{center}
 
 \begin{figure}[htp!]
-    \caption{Các chử số sau khi phát hiện trên thẻ American Express}
+    \caption{Các chữ số sau khi phát hiện trên thẻ American Express}
 \end{figure}
 
 - Kết quả cuối cùng sau khi nhận dạng thẻ American Express
