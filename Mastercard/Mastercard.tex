@@ -11,11 +11,11 @@ Nhận dạng chữ số trên thẻ tín dụng Mastercard
 
 \subsection{Mô hình nhận dạng}
 
-    \quad Vì thẻ Mastercard có ký tự chữ số khác với chữ số thường nên ta sẽ thực
+    \quad Vì thẻ Mastercard có ký tự chữ số khác với chữ số thường và có một font đặc biệt riêng nên ta sẽ thực
 hiện training với tập dữ liệu riêng.
 
     \quad Ta lên mạng gõ tìm font chữ của thẻ mastercard sau đó cài đặt, vào word
-gõ 100 ký tự số từ 0 đến 1 và chụp màng hình. 
+gõ 100 ký tự số từ 0 đến 1 và chụp màn hình. 
 
     \quad Dữ liệu training là ảnh dưới đây.
 \begin{center}
@@ -306,7 +306,7 @@ cv2.destroyAllWindows()
 
 \subsection{Đánh giá kết quả và kết luận}
 
-- Đầu tiên ta load hai ảnh gồm ảnh tham chiếu và ảnh thẻ tín dụng
+- Đầu tiên ta load hai ảnh gồm ảnh tham chiếu và ảnh thẻ Mastercard
 \begin{lstlisting}[language=Python]
     #Anh tham chieu va anh nhan dang
     TRAIN_IMG = 'images\ocr-reference-1.png'
@@ -368,12 +368,12 @@ cv2.destroyAllWindows()
 
 \quad \textbf{KẾT QUẢ NHẬN ĐƯỢC} \\[0.2cm]
 
-- Các chử số trên thẻ sau khi được detect 
+- Các chữ số trên thẻ sau khi được detect 
 
 \includegraphics[]{images/mastercard/digits.png}
 
 \begin{figure}[htp!]
-    \caption{Các chử số sau khi phát hiện trên thẻ Mastercard}
+    \caption{Các chữ số sau khi phát hiện trên thẻ Mastercard}
 \end{figure}
 
 - Kết quả cuối cùng sau khi nhận dạng thẻ Mastercard
