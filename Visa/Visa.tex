@@ -9,21 +9,21 @@ Nhận dạng chữ số trên thẻ tín dụng Visa
 \subsection{Mô hình nhận dạng}
 
 
-\quad Vì thẻ Visa có ký tự chữ số khác với chữ số thường nên ta sẽ thực
-hiện training với tập dữ liệu riêng.
+\quad Vì thẻ Visa có ký tự chữ số có font đặt biệt nên ta sẽ thực
+hiện training với tập dữ liệu riêng cho thẻ Visa.
 
     \quad Ta lên mạng gõ tìm font chữ của thẻ visa sau đó cài đặt, vào word
-gõ 100 ký tự số từ 0 đến 1 và chụp màng hình. 
+gõ 100 ký tự số từ 0 đến 1 và chụp màn hình. 
 
     \quad Dữ liệu training là ảnh dưới đây.
 \begin{center}
     \includegraphics[scale = 1.2]{images/visa/training.png}
 \end{center}
 \begin{figure}[htp]
-    \caption{ảnh training Visa}
+    \caption{Ảnh training Visa}
 \end{figure}
 
--	Vì lí do ảnh Visa có nền màu trắng khi lấy nhị phân ra ta qua nhiều giai đoạn xử lí nên các số không được nguyên bản, không được đẹp nên ta sẽ thực hiện biến đổi ngẫu nhiên các số từ font chữ góc (in nghiêng, in đậm, bóng mờ, phóng to, thu nhỏ, thêm số từ font khác,…) và chọn kết quả cảm thấy tốt nhất
+-	Vì lí do ảnh Visa có nền màu trắng khi lấy nhị phân ra ta qua nhiều giai đoạn xử lí nên các số không được nguyên bản, không được đẹp nên ta sẽ thực hiện biến đổi ngẫu nhiên các số từ font chữ gốc (in nghiêng, in đậm, bóng mờ, phóng to, thu nhỏ, thêm số từ font khác,…) và chọn kết quả cảm thấy tốt nhất
 
 \tikzset{every picture/.style={line width=0.75pt}} %set default line width to 0.75pt        
 \begin{tikzpicture}[x=0.75pt,y=0.75pt,yscale=-1,xscale=1]
@@ -332,7 +332,7 @@ gõ 100 ký tự số từ 0 đến 1 và chụp màng hình.
 
 \subsection{Đánh giá kết quả và kết luận}
 
-- Đầu tiên ta load hai ảnh gồm ảnh tham chiếu và ảnh thẻ tín dụng
+- Đầu tiên ta load hai ảnh gồm ảnh tham chiếu và ảnh thẻ Visa
 \begin{lstlisting}[language=Python]
     #Anh tham chieu va anh nhan dang
     TRAIN_IMG = 'images\ocr-reference-2.png'
@@ -394,12 +394,12 @@ gõ 100 ký tự số từ 0 đến 1 và chụp màng hình.
 
 \quad \textbf{KẾT QUẢ NHẬN ĐƯỢC} \\[0.2cm]
 
-- Các chử số trên thẻ sau khi được detect 
+- Các chữ số trên thẻ sau khi được detect 
 
 \includegraphics[]{images/visa/digits.png}
 
 \begin{figure}[htp!]
-    \caption{Các chử số sau khi phát hiện trên thẻ Visa}
+    \caption{Các chữ số sau khi phát hiện trên thẻ Visa}
 \end{figure}
 
 - Kết quả cuối cùng sau khi nhận dạng thẻ Visa
